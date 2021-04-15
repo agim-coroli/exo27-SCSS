@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(3, 100, 245);
+    height: 150px;
+    color: white;
+    text-align: center;
+
+    i{
+        font-size: 20px;
+    }
+}
+
+.underfooter{
+    background-color: black;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
